@@ -1,0 +1,42 @@
+*{
+    color: blue;
+}
+p, span {
+    color:red;
+    width: 300px;
+}
+/**
+Esto es un comentario en nuestra hoja de estilos
+*/
+h1{
+    font-family: 'Roboto', sans-serif;
+    border: 5px double black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 10px;
+    margin-top:20px;
+    margin-bottom:15px;
+    margin-left: 15px;
+    margin-right: 10px;
+    font-weight: bold;
+    color: aqua;
+}
+section {
+    width: 300px;
+    border: 15px double green;
+    padding: 50px;
+    margin: 20px;
+  }
+#mi_parrafo{
+    color:chartreuse;
+    font-size: 23px;
+    border: 1px solid orange;
+}
+.estaesmiclase{
+    font-weight: bold;
+    color: lightblue;
+}
+section h1{
+    font-size: 25px;
+}
