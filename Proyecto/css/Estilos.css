@@ -1,2 +1,41 @@
 
+font-family: 'Roboto', sans-serif;
+.listaso{
+    font-weight: bold;
+    color: lightblue;
+    align-items: center;
+}
 
+.borde1{
+    border: 15px black;
+    background-color: rgb(30, 231, 130);
+}
+
+ul {
+    list-style-position: inside;
+  }
+
+  .col-sm-3{
+    background-color: rgba(124, 255, 163, 0.705);
+}
+
+.col-sm-9{
+    background-color: rgb(211, 255, 224);
+}
+
+.col-sm-12{
+    background-color: rgb(31, 255, 169);
+}
+
+.ocultar{
+    display: none;
+}
+
+.mostrar{
+    display: block;
+}
+
+#hideText_btn {
+    border-radius: 20px;
+    background-color: rgb(0, 255, 115);
+    }
