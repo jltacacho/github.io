@@ -1,9 +1,17 @@
+
+
+
+
 *{
     color: blue;
+    /**background-color: lightcoral;*/
 }
 p, span {
     color:red;
     width: 300px;
+}
+#demo{
+    color:green;
 }
 /**
 Esto es un comentario en nuestra hoja de estilos
