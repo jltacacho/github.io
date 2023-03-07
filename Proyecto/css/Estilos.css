@@ -1,8 +1,9 @@
 
+* {
 font-family: 'Roboto', sans-serif;
+}
 .listaso{
     font-weight: bold;
-    color: lightblue;
     align-items: center;
 }
 
